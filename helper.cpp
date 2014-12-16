@@ -25,9 +25,9 @@ int main() {
 		while (ss >> feature);
 
 		if (feature.find("mean()") != string::npos) {
-			cout << ++itr << ". " << feature << endl;
+			cout << ++itr << ". " << feature << "<br />";
 		} else if (feature.find("std()") != string::npos) {
-			cout << ++itr << ". " << feature << endl;
+			cout << ++itr << ". " << feature << "<br />";
 		}
 	}
 	return 0;
