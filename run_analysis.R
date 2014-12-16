@@ -94,7 +94,7 @@ data_averaged <- ddply(data, .(Subject, Activity),
 ## an observation. Hence it is Tidy dataset.
 
 # write the output file
-write.table(data_averaged, "data_average.txt")
+write.table(data_averaged, "data_average.txt", row.name = FALSE)
 # Read the data_average.txt using the command
 #> data <- read.table("./data_average.txt")
 #> View(data)
