@@ -22,13 +22,13 @@ _ _ _
 1. <strong>R</strong> should be installed on your system.
 2. <strong>RStudio</strong> is preferable.
 3. Load the `plyr` package. If you don't have the package load the package using the command:
-        install.packages("plyr")
+        `install.packages("plyr")`
 
 _ _ _
 
 ####How to run the script
 1. Clone this repostiory using command :
-        git clone https://github.com/KeshavSeth/getdata-016_course_project.git
+        `git clone https://github.com/KeshavSeth/getdata-016_course_project.git`
 2. Open <b>RStudio</b>.
 3. Run the script `run_analysis.R`
 4. A Tidy Data set will be produced.
