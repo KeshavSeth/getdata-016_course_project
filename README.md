@@ -15,12 +15,15 @@ _ _ _
     * This file. Duh!!
 * <b>run_analysis.R</b>
     * The R script which performs the <b>5</b> assigned tasks.
+
 _ _ _
+
 ####Software Required
 1. <strong>R</strong> should be installed on your system.
 2. <strong>RStudio</strong> is preferable.
 3. Load the `plyr` package. If you don't have the package load the package using the command:
         install.packages("plyr")
+
 _ _ _
 
 ####How to run the script
