@@ -29,4 +29,5 @@ _ _ _
 2. Open <b>RStudio</b>.
 3. Run the script `run_analysis.R`
 4. A Tidy Data set will be produced.
+
 _ _ _
