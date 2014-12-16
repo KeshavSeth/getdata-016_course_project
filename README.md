@@ -9,8 +9,10 @@ _ _ _
     * Contains the raw data.
 * <b>CodeBook.md</b>
     * This describes the variables, the data, and any transformations or work that was performed to clean up the data.
-*  <b>data_average.txt</b>
+* <b>data_average.txt</b>
     * Contains the final output. This is also uploaded in the project page.
+* <b>helper.cpp</b>
+    * Cpp file to extract the variable names for the CodeBook.md.
 * <b>README.md</b>
     * This file. Duh!!
 * <b>run_analysis.R</b>
